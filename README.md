@@ -1,7 +1,7 @@
 # 🐍 Jornada Python - Curso em Vídeo
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2c/86/67/2c86675e7a9341416c11d3326164f9bf.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Python Banner" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F254&ved=0CBUQjRxqFwoTCLi3uK2LgpIDFQAAAAAdAAAAABAj&opi=89978449" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Python Banner" />
   <br/><br/>
 </div>
 
@@ -28,10 +28,10 @@ A estrutura segue a metodologia do curso, dividida em "Mundos" conforme a progre
 
 | Diretório / Mundo | Descrição | Status |
 | :--- | :--- | :---: |
-| **`#01 - Mundo 1`** | Fundamentos, tipos primitivos e estruturas condicional simples. | ✅ |
-| **`#02 - Mundo 2`** | Estruturas de repetição (`for`, `while`) e aninhamentos. | ⏳ |
-| **`#03 - Mundo 3`** | Estruturas compostas (Listas, Tuplas, Dicionários) e Funções. | 🔒 |
-| **`#04 - Mundo 4`** | **Programação Orientada a Objetos (POO)** e Banco de Dados. | 🔒 |
+| **`MUNDO 1 - FUNDAMENTOS `** | Fundamentos, tipos primitivos, operações aritméticas e estruturas condicional simples e composta (`if`, `else`). | ✅ |
+| **`MUNDO 2 - ESTRUTURAS CONDICIONAIS `** | Estruturas condicional aninhadas e estrutras de repetição (`for`, `while`) e aninhamentos. | ⏳ |
+| **`MUNDO 3 - ESTRUTURAS COMPOSTAS `** | Estruturas compostas (Listas, Tuplas, Dicionários) e Funções. | 🔒 |
+| **`MUNDO 4 - PROGRAMAÇÃO ORIENTADA A OBJETO `** | **Programação Orientada a Objetos (POO)** e Banco de Dados. | 🔒 |
 
 ---
 
@@ -69,7 +69,7 @@ Para rodar qualquer código deste repositório no teu terminal Linux:
     Navegue até à pasta desejada:
     Bash
 
-cd Estudos-Python-cv/MUNDO-1-FUNDAMENTOS
+cd Estudos-Python-cv/MUNDO--1-FUNDAMENTOS
 
 Execute o arquivo:
 Bash
