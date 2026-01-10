@@ -38,7 +38,7 @@ A estrutura segue a metodologia do curso, dividida em "Mundos" conforme a progre
 ## 🎮 Projetos & Autonomia
 
 A teoria é importante, mas a prática é onde a mágica acontece. Além dos exercícios padrão, criei áreas para expandir o conhecimento:
-``
+```
 ### ☕ Foco em POO (Mundo 4)
 Na pasta do **`Mundo 4`**, estou aprofundando no paradigma profissional de desenvolvimento:
 * *Foco:* Classes, Objetos, Herança, Polimorfismo e Encapsulamento.
@@ -46,7 +46,7 @@ Na pasta do **`Mundo 4`**, estou aprofundando no paradigma profissional de desen
 ### 🚀 Projetos Pessoais
 A pasta **`## Extras`** contém códigos desenvolvidos com **autonomia**, fora da grade curricular.
 * *Objetivo:* Tentar resolver problemas reais do meu dia a dia no Linux e criar automações, saindo da "zona de conforto" dos exercícios guiados.
-``
+```
 ---
 
 ## 🛠 Tecnologias e Ferramentas
