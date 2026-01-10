@@ -1,7 +1,7 @@
 # 🐍 Jornada Python - Curso em Vídeo
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F254&ved=0CBUQjRxqFwoTCLi3uK2LgpIDFQAAAAAdAAAAABAj&opi=89978449" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Python Banner" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F254&ved=0CBUQjRxqFwoTCLi3uK2LgpIDFQAAAAAdAAAAABAj&opi=89978449" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
   <br/><br/>
 </div>
 
@@ -38,15 +38,6 @@ A estrutura segue a metodologia do curso, dividida em "Mundos" conforme a progre
 ## 🎮 Projetos & Autonomia
 
 A teoria é importante, mas a prática é onde a mágica acontece. Além dos exercícios padrão, criei áreas para expandir o conhecimento:
-```
-### ☕ Foco em POO (Mundo 4)
-Na pasta do **`Mundo 4`**, estou aprofundando no paradigma profissional de desenvolvimento:
-* *Foco:* Classes, Objetos, Herança, Polimorfismo e Encapsulamento.
-
-### 🚀 Projetos Pessoais
-A pasta **`## Extras`** contém códigos desenvolvidos com **autonomia**, fora da grade curricular.
-* *Objetivo:* Tentar resolver problemas reais do meu dia a dia no Linux e criar automações, saindo da "zona de conforto" dos exercícios guiados.
-```
 ---
 
 ## 🛠 Tecnologias e Ferramentas
