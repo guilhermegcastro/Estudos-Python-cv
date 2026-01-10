@@ -38,7 +38,7 @@ A estrutura segue a metodologia do curso, dividida em "Mundos" conforme a progre
 ## 🎮 Projetos & Autonomia
 
 A teoria é importante, mas a prática é onde a mágica acontece. Além dos exercícios padrão, criei áreas para expandir o conhecimento:
-
+``
 ### ☕ Foco em POO (Mundo 4)
 Na pasta do **`Mundo 4`**, estou aprofundando no paradigma profissional de desenvolvimento:
 * *Foco:* Classes, Objetos, Herança, Polimorfismo e Encapsulamento.
@@ -46,7 +46,7 @@ Na pasta do **`Mundo 4`**, estou aprofundando no paradigma profissional de desen
 ### 🚀 Projetos Pessoais
 A pasta **`## Extras`** contém códigos desenvolvidos com **autonomia**, fora da grade curricular.
 * *Objetivo:* Tentar resolver problemas reais do meu dia a dia no Linux e criar automações, saindo da "zona de conforto" dos exercícios guiados.
-
+``
 ---
 
 ## 🛠 Tecnologias e Ferramentas
@@ -64,12 +64,12 @@ Para rodar qualquer código deste repositório no teu terminal Linux:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git](https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git)
+   git clone [https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git](https://github.com/guilhermegcastro/Estudos-Python-cv.git)
 
     Navegue até à pasta desejada:
     Bash
 
-cd NOME-DO-SEU-REPO/Mundo-1
+cd Estudos-Python-cv/MUNDO-1-FUNDAMENTOS
 
 Execute o arquivo:
 Bash
@@ -92,4 +92,3 @@ Alguns dos conceitos chave explorados neste repositório até o momento:
 
     [ ] Programação Orientada a Objetos (POO)
 
-<p align="center"> <i>Desenvolvido com 🐧 por Guca</i> </p>
