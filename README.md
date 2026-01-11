@@ -50,7 +50,7 @@ Para rodar qualquer código deste repositório no teu terminal Linux:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git](https://github.com/guilhermegcastro/Estudos-Python-cv.git)
+   git clone https://github.com/guilhermegcastro/Estudos-Python-cv.git
     ```
 2. **Navegue até à pasta desejada:**
     ```bash
