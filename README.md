@@ -52,11 +52,11 @@ Para rodar qualquer código deste repositório no teu terminal Linux:
    ```bash
    git clone [https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git](https://github.com/guilhermegcastro/Estudos-Python-cv.git)
     ```
-    Navegue até à pasta desejada:
+2. **Navegue até à pasta desejada:**
     ```bash
     cd Estudos-Python-cv/MUNDO--1-FUNDAMENTOS
     ```
-    Execute o arquivo:
+3. **Execute o arquivo:**
     ```bash
     python3 nome_do_arquivo.py
     ```
