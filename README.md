@@ -1,10 +1,5 @@
 # 🐍 Jornada Python - Curso em Vídeo
 
-<div align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F254&ved=0CBUQjRxqFwoTCLi3uK2LgpIDFQAAAAAdAAAAABAj&opi=89978449" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
-  <br/><br/>
-</div>
-
 ![Python Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Linux_Manjaro-35BF5C?style=for-the-badge&logo=linux&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -56,16 +51,15 @@ Para rodar qualquer código deste repositório no teu terminal Linux:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/guilhermegcastro/NOME-DO-SEU-REPO.git](https://github.com/guilhermegcastro/Estudos-Python-cv.git)
-
+    ```
     Navegue até à pasta desejada:
-    Bash
-
-cd Estudos-Python-cv/MUNDO--1-FUNDAMENTOS
-
-Execute o arquivo:
-Bash
-
+    ```bash
+    cd Estudos-Python-cv/MUNDO--1-FUNDAMENTOS
+    ```
+    Execute o arquivo:
+    ```bash
     python3 nome_do_arquivo.py
+    ```
 
 🧠 Destaques de Aprendizagem
 
